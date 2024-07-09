@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AustinCool001
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning fullstack software development 
 - 💞️ I’m looking to collaborate on any project that's challenging enough
 - 📫 How to reach me on LinkedIn as Austin Chidi Arisurukwu 
